@@ -1,7 +1,7 @@
 #Flutter custom navigation drawer
 
 A new Flutter project.
-![alt text](https://github.com/Baksman/custom-drawer/blob/master/assets/20200717_140714.gif")
+![](https://github.com/Baksman/custom-drawer/blob/master/assets/20200717_140714.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
